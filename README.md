@@ -123,7 +123,7 @@ sofaen hjemme.
 
 <br>
 
-![blender]https://user-images.githubusercontent.com/83395536/194725946-0a590f43-9b8a-4afc-9732-3b103a7e6960.png)
+![blender1](https://user-images.githubusercontent.com/83395536/194725946-0a590f43-9b8a-4afc-9732-3b103a7e6960.png)
 
 
 ![blender2](https://user-images.githubusercontent.com/83395536/194725939-ba092542-f0bc-46b7-8096-04c631d2755e.png)
