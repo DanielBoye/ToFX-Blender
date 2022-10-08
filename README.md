@@ -49,6 +49,8 @@ cube, og modellerer den ned til riktig størrelse.
 Den mest effektive måten å gjør dette på er å duplisere puten jeg allerede har laget
 (SHIFT A, G X for å dra den nye puten langs X aksen).
 
+<br>
+
 ![logg1](https://user-images.githubusercontent.com/83395536/194725907-999910ff-b045-4e4e-888e-c3954be6ce83.png)
 
 <br>
@@ -56,6 +58,8 @@ Den mest effektive måten å gjør dette på er å duplisere puten jeg allerede 
 Jeg har falt helt i elsk med å trykke på aksene eller bare holde inne «Alt» og dra
 musen til å få kameravinkelen ovenfra, som jeg kan legge inn putene rett ved siden
 av hverandre.
+
+<br>
 
 ![logg3](https://user-images.githubusercontent.com/83395536/194725910-0a298a39-2de3-42be-9f28-1e14d2f160b9.png)
 
@@ -65,16 +69,23 @@ av hverandre.
 
 <br>
 
-![logg5](https://user-images.githubusercontent.com/83395536/194725914-214cb239-d37a-4b7f-80c0-f17f76e682f3.png)
+Her er jeg ferdig med å legge inn alle putene. De er laget med å legge inn «Bevel»
+og «Subdivision» Modifiers. Segmentene la jeg på 2 og to, og på Bevel brukte jeg
+rundt 0.03M og 3 segments for å få en litt glatt overflate.
 
 <br>
 
-![logg6](https://user-images.githubusercontent.com/83395536/194725915-223bf7c0-e5ad-4c06-ac41-23ef51661315.png)
-![logg7](https://user-images.githubusercontent.com/83395536/194725916-ba71315e-d029-48b1-b12f-094e867e3e8c.png)
-![logg8](https://user-images.githubusercontent.com/83395536/194725917-d391bc26-5535-41a1-8a52-f3c46d4e33bb.png)
-![logg9](https://user-images.githubusercontent.com/83395536/194725918-2b65d820-4c35-4d98-8e7b-066e013f28b5.png)
-![logg10](https://user-images.githubusercontent.com/83395536/194725919-5624a84c-4f8b-4409-be65-a3a84aa643ad.png)
 ![logg11](https://user-images.githubusercontent.com/83395536/194725920-72e58a6e-bbfe-458d-affa-b204af9edab1.png)
+
+<br>
+
+Så bruker jeg Physics Cloth for å få putenene til å blåse seg opp. Jeg setter
+«Pressure» til 5 for å skape et indre trykk, og «Gravity» til 0 som den ikke faller på
+bakken. Etter alt er satt opp lagrer jeg endringene med å trykke på ^ og «Apply» i
+menyen. Der er slik jeg får at putene stikker litt ut, og ser ut som sofaputer
+
+<br>
+
 ![logg12](https://user-images.githubusercontent.com/83395536/194725921-32a420c1-b49b-4645-ad6d-a53e1f4b1d7f.png)
 ![logg13](https://user-images.githubusercontent.com/83395536/194725922-7b30cbb7-3f91-4cd1-ad58-3a8f709e5fdb.png)
 ![logg14](https://user-images.githubusercontent.com/83395536/194725923-2ea15fc8-dc7f-48e3-9d93-a9cf61e0c8f2.png)
