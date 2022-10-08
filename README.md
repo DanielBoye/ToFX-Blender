@@ -89,10 +89,50 @@ menyen. Der er slik jeg får at putene stikker litt ut, og ser ut som sofaputer
 <br>
 
 ![logg12](https://user-images.githubusercontent.com/83395536/194725921-32a420c1-b49b-4645-ad6d-a53e1f4b1d7f.png)
+
+<br>
+
+-----
+
+Når jeg jobber på laptopen setter jeg render engine
+på «Cycles» for at når jeg går i render mode, at
+figuren oppdaterer seg selv i sanntid. 
+
+<br>
+
 ![logg13](https://user-images.githubusercontent.com/83395536/194725922-7b30cbb7-3f91-4cd1-ad58-3a8f709e5fdb.png)
-![logg14](https://user-images.githubusercontent.com/83395536/194725923-2ea15fc8-dc7f-48e3-9d93-a9cf61e0c8f2.png)
+
+<br>
+
+-----
+
+Her ble putene litt rare osv med å bruke brush mode, så jeg endte opp med å endre
+dem, samt den store puten ytterst til høyre, siden den fikk så mange rynker på seg. 
+
+<br>
+
 ![logg15](https://user-images.githubusercontent.com/83395536/194725925-20c8f6f1-e8ef-4b41-b265-4b964366488e.png)
+
+<br>
+
+-----
+
+For å få til litt fint lys la jeg til en Hue Saturation Value som binder teksturen og
+objektet. Jeg bare lekte litt rundt med verdiene til jeg fant noe som lignet fargen på
+sofaen hjemme.
+
+<br>
+
 ![logg16](https://user-images.githubusercontent.com/83395536/194725926-d711ef2d-8b58-4b91-9173-43a9fc84f255.png)
+
+<br>
+
+-----
+
+## Ekstra bilder av prosjektet
+
+<br>
+
 ![blender1](https://user-images.githubusercontent.com/83395536/194725939-ba092542-f0bc-46b7-8096-04c631d2755e.png)
 ![blender2](https://user-images.githubusercontent.com/83395536/194725942-c2641e72-308c-4051-b238-049ff80c77c9.png)
 ![blender3](https://user-images.githubusercontent.com/83395536/194725943-5d7f7c96-75cb-4186-816c-b5d082b4ef2d.png)
