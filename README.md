@@ -20,10 +20,6 @@ Slik ble sluttproduktet:
 
 <br>
 
-![ferdig](https://user-images.githubusercontent.com/83395536/194725861-308f3a6b-ce1e-4c1d-ae1a-167e04ded7a3.png)
-
-<br>
-
 ![ferdig2](https://user-images.githubusercontent.com/83395536/194726890-5b1ad29f-f5be-4d60-94f6-5148ab3c3548.png)
 
 -----
@@ -33,6 +29,11 @@ Slik ser det ut inne i Blender programmet når jeg var ferdig. Jeg er veldig for
 <br>
 
 ![ferdig2](https://user-images.githubusercontent.com/83395536/194725864-3f859d8e-8c6f-436f-9c91-9762ce17d47b.png)
+
+<br>
+
+![ferdig3](https://user-images.githubusercontent.com/83395536/194726932-aeba9315-ebf0-4b1c-b5c4-2f62ad4302f2.png)
+
 
 -----
 
