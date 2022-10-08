@@ -1,35 +1,36 @@
 # Sofa i Blender
 
 Jeg valgte å lage sofaen vi har i stuen. Her er link til selve sofaen på Bohus:
-https://www.bohus.no/stue/sofa/hjoernesofa/vilmers-nordic-hjoernesofa-1.
+https://www.bohus.no/stue/sofa/hjoernesofa/vilmers-nordic-hjoernesofa-1
+
 <br>
+
 Det var vanskelig å komme i gang med å lære alle keybindingene. Man måtte bare lære de, og alt
 ble så mye lettere når alt bare satt. Etter den andre og tredje timen ble Blender veldig kjekt, siden
 jeg følte at jeg faktisk fikk til noe, og sluttresultatet ble så bra.  
+
 <br>
+
 Selve render bildet er litt rart, siden teksturene rundt selve sofa kantene ble litt rare, og hakkete. Jeg vet ikke helt hvordan jeg skal fikse dem.
+
 <br>
+
 Utfordringer jeg møtte på var hvordan jeg skulle rendere bildet. Jeg ville rendere bildet i en
 oppløsning på 3840p x 2160p (4k), og jeg ville rendere bildet med GPU-en min jeg har hjemme i
 pc-en min, som det går litt raskere. Jeg løste utfordringen med å gå gjennom noen stackexchange
 poster med andre som hadde samme problem som meg. For teksturer brukte jeg en plug-in som
 heter blenderkit. Flott opensource prosjekt som ligger ute på github. https://github.com/BlenderKit/blenderkit.
 
-<br>
-
 -----
 Slik ble sluttproduktet:
 
 <br>
 
-
 ![ferdig](https://user-images.githubusercontent.com/83395536/194725861-308f3a6b-ce1e-4c1d-ae1a-167e04ded7a3.png)
-
-<br>
 
 -----
 
-Slik ser det ut inne i Blender programmet når jeg var ferdig. Jeg er veldig fornøyd med hvor realistik sofaen ble. 
+Slik ser det ut inne i Blender programmet når jeg var ferdig. Jeg er veldig fornøyd med hvor realistisk sofaen ble. 
 
 <br>
 
@@ -67,8 +68,6 @@ av hverandre.
 
 ![logg4](https://user-images.githubusercontent.com/83395536/194725911-507d3055-90f0-4fb2-8076-bc6a68e925b5.png)
 
-<br>
-
 -----
 
 Her er jeg ferdig med å legge inn alle putene. De er laget med å legge inn «Bevel»
@@ -90,8 +89,6 @@ menyen. Der er slik jeg får at putene stikker litt ut, og ser ut som sofaputer
 
 ![logg12](https://user-images.githubusercontent.com/83395536/194725921-32a420c1-b49b-4645-ad6d-a53e1f4b1d7f.png)
 
-<br>
-
 -----
 
 Når jeg jobber på laptopen setter jeg render engine
@@ -102,8 +99,6 @@ figuren oppdaterer seg selv i sanntid.
 
 ![logg13](https://user-images.githubusercontent.com/83395536/194725922-7b30cbb7-3f91-4cd1-ad58-3a8f709e5fdb.png)
 
-<br>
-
 -----
 
 Her ble putene litt rare osv med å bruke brush mode, så jeg endte opp med å endre
@@ -112,8 +107,6 @@ dem, samt den store puten ytterst til høyre, siden den fikk så mange rynker p�
 <br>
 
 ![logg15](https://user-images.githubusercontent.com/83395536/194725925-20c8f6f1-e8ef-4b41-b265-4b964366488e.png)
-
-<br>
 
 -----
 
@@ -124,8 +117,6 @@ sofaen hjemme.
 <br>
 
 ![logg16](https://user-images.githubusercontent.com/83395536/194725926-d711ef2d-8b58-4b91-9173-43a9fc84f255.png)
-
-<br>
 
 -----
 
