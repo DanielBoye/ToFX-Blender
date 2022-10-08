@@ -30,14 +30,14 @@ Slik ser det ut inne i Blender programmet når jeg var ferdig. Jeg er veldig for
 
 ![ferdig2](https://user-images.githubusercontent.com/83395536/194725864-3f859d8e-8c6f-436f-9c91-9762ce17d47b.png)
 
+-----
+
 ## Ifra 2x2 bokser til Bohus Sofa
 
 Her modellerer jeg hjørnet på sofaen. For å lage boksene legger jeg bare inn en
 cube, og modellerer den ned til riktig størrelse.
 
 <br>
-
-
 
 ![logg2](https://user-images.githubusercontent.com/83395536/194725909-d242426c-f1b7-457d-a90f-fdcac45182db.png)
 
@@ -48,7 +48,7 @@ Den mest effektive måten å gjør dette på er å duplisere puten jeg allerede 
 
 ![logg1](https://user-images.githubusercontent.com/83395536/194725907-999910ff-b045-4e4e-888e-c3954be6ce83.png)
 
-<br>
+-----
 
 Jeg har falt helt i elsk med å trykke på aksene eller bare holde inne «Alt» og dra
 musen til å få kameravinkelen ovenfra, som jeg kan legge inn putene rett ved siden
