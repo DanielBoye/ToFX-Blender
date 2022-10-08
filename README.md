@@ -1,4 +1,4 @@
-# Sofa Blender
+# Sofa i Blender
 
 Jeg valgte å lage sofaen vi har i stuen. Her er link til selve sofaen på Bohus:
 https://www.bohus.no/stue/sofa/hjoernesofa/vilmers-nordic-hjoernesofa-1.
@@ -34,16 +34,37 @@ cube, og modellerer den ned til riktig størrelse.
 
 <br>
 
+
+
+![logg2](https://user-images.githubusercontent.com/83395536/194725909-d242426c-f1b7-457d-a90f-fdcac45182db.png)
+
 Den mest effektive måten å gjør dette på er å duplisere puten jeg allerede har laget
 (SHIFT A, G X for å dra den nye puten langs X aksen).
 
 <br>
 
 ![logg1](https://user-images.githubusercontent.com/83395536/194725907-999910ff-b045-4e4e-888e-c3954be6ce83.png)
-![logg2](https://user-images.githubusercontent.com/83395536/194725909-d242426c-f1b7-457d-a90f-fdcac45182db.png)
+
+<br>
+
+Jeg har falt helt i elsk med å trykke på aksene eller bare holde inne «Alt» og dra
+musen til å få kameravinkelen ovenfra, som jeg kan legge inn putene rett ved siden
+av hverandre.
+
+<br>
+
 ![logg3](https://user-images.githubusercontent.com/83395536/194725910-0a298a39-2de3-42be-9f28-1e14d2f160b9.png)
+
+<br>
+
 ![logg4](https://user-images.githubusercontent.com/83395536/194725911-507d3055-90f0-4fb2-8076-bc6a68e925b5.png)
+
+<br>
+
 ![logg5](https://user-images.githubusercontent.com/83395536/194725914-214cb239-d37a-4b7f-80c0-f17f76e682f3.png)
+
+<br>
+
 ![logg6](https://user-images.githubusercontent.com/83395536/194725915-223bf7c0-e5ad-4c06-ac41-23ef51661315.png)
 ![logg7](https://user-images.githubusercontent.com/83395536/194725916-ba71315e-d029-48b1-b12f-094e867e3e8c.png)
 ![logg8](https://user-images.githubusercontent.com/83395536/194725917-d391bc26-5535-41a1-8a52-f3c46d4e33bb.png)
