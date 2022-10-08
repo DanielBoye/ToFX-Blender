@@ -69,6 +69,8 @@ av hverandre.
 
 <br>
 
+-----
+
 Her er jeg ferdig med å legge inn alle putene. De er laget med å legge inn «Bevel»
 og «Subdivision» Modifiers. Segmentene la jeg på 2 og to, og på Bevel brukte jeg
 rundt 0.03M og 3 segments for å få en litt glatt overflate.
