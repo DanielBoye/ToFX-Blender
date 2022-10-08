@@ -3,17 +3,11 @@
 Jeg valgte å lage sofaen vi har i stuen. Her er link til selve sofaen på Bohus:
 https://www.bohus.no/stue/sofa/hjoernesofa/vilmers-nordic-hjoernesofa-1
 
-<br>
-
 Det var vanskelig å komme i gang med å lære alle keybindingene. Man måtte bare lære de, og alt
 ble så mye lettere når alt bare satt. Etter den andre og tredje timen ble Blender veldig kjekt, siden
 jeg følte at jeg faktisk fikk til noe, og sluttresultatet ble så bra.  
 
-<br>
-
 Selve render bildet er litt rart, siden teksturene rundt selve sofa kantene ble litt rare, og hakkete. Jeg vet ikke helt hvordan jeg skal fikse dem.
-
-<br>
 
 Utfordringer jeg møtte på var hvordan jeg skulle rendere bildet. Jeg ville rendere bildet i en
 oppløsning på 3840p x 2160p (4k), og jeg ville rendere bildet med GPU-en min jeg har hjemme i
