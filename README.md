@@ -23,7 +23,9 @@ Slik ble sluttproduktet.
 ![ferdig](https://user-images.githubusercontent.com/83395536/194725861-308f3a6b-ce1e-4c1d-ae1a-167e04ded7a3.png)
 
 <br>
+
 -----
+
 Slik ser det ut inne i Blender programmet når jeg var ferdig. Jeg er veldig fornøyd med hvor realistik sofaen ble. 
 <br>
 
