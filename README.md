@@ -18,7 +18,7 @@ heter blenderkit. Flott opensource prosjekt som ligger ute på github. https://g
 <br>
 
 -----
-Slik ble sluttproduktet.
+Slik ble sluttproduktet:
 
 <br>
 
@@ -49,8 +49,6 @@ cube, og modellerer den ned til riktig størrelse.
 Den mest effektive måten å gjør dette på er å duplisere puten jeg allerede har laget
 (SHIFT A, G X for å dra den nye puten langs X aksen).
 
-<br>
-
 ![logg1](https://user-images.githubusercontent.com/83395536/194725907-999910ff-b045-4e4e-888e-c3954be6ce83.png)
 
 <br>
@@ -58,8 +56,6 @@ Den mest effektive måten å gjør dette på er å duplisere puten jeg allerede 
 Jeg har falt helt i elsk med å trykke på aksene eller bare holde inne «Alt» og dra
 musen til å få kameravinkelen ovenfra, som jeg kan legge inn putene rett ved siden
 av hverandre.
-
-<br>
 
 ![logg3](https://user-images.githubusercontent.com/83395536/194725910-0a298a39-2de3-42be-9f28-1e14d2f160b9.png)
 
