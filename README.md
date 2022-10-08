@@ -1,4 +1,4 @@
-# Sofa i Blender
+# Teknologi og forskningslære X Blender
 
 Jeg valgte å lage sofaen vi har i stuen. Her er link til selve sofaen på Bohus:
 https://www.bohus.no/stue/sofa/hjoernesofa/vilmers-nordic-hjoernesofa-1
