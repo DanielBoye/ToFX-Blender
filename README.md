@@ -13,14 +13,19 @@ Utfordringer jeg møtte på var hvordan jeg skulle rendere bildet. Jeg ville ren
 oppløsning på 3840p x 2160p (4k), og jeg ville rendere bildet med GPU-en min jeg har hjemme i
 pc-en min, som det går litt raskere. Jeg løste utfordringen med å gå gjennom noen stackexchange
 poster med andre som hadde samme problem som meg. For teksturer brukte jeg en plug-in som
-heter blenderkit. Flott opensource prosjekt som ligger ute på github.
+heter blenderkit. Flott opensource prosjekt som ligger ute på github. https://github.com/BlenderKit/blenderkit.
 <br>
 
 Slik ble sluttproduktet.
 <br>
 
-https://github.com/BlenderKit/blenderkit.
+
 ![ferdig](https://user-images.githubusercontent.com/83395536/194725861-308f3a6b-ce1e-4c1d-ae1a-167e04ded7a3.png)
+
+<br>
+<br>
+
+-----
 
 Slik ser det ut inne i Blender programmet når jeg var ferdig. Jeg er veldig fornøyd med hvor realistik sofaen ble. 
 <br>
